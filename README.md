@@ -8,7 +8,7 @@ In this project, we were required to manipulate the DOM to create eyes that trac
 ## How to run
 To get this code to work on your machine, fork the repository to your GitHub then clone it to your local machine. 
 ## Project Improvement Opportunities
-This was an exercise for my bootcamp. I may, in the future, come back and create a better environment and update the canvas.
+This was an exercise for my bootcamp. I may, in the future, come back and create a better environment and update the visuals.
 
 ## Project License
 The MIT License (MIT)
